@@ -1,2 +1,2 @@
 # retroimpact
-View raw dot matrix printer data as easily as you can view a PDF.
+View raw data from 80s dot matrix printers as easily as you can view a PDF.
